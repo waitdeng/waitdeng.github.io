@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-10T05:28:20.787Z</updated>
+  <updated>2023-02-10T09:52:04.359Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my new post</title>
-    <link href="http://example.com/2023/02/10/my-new-post/"/>
-    <id>http://example.com/2023/02/10/my-new-post/</id>
+    <title>Windows - Clash for Windows 使用教程</title>
+    <link href="http://example.com/c8ad3605.html"/>
+    <id>http://example.com/c8ad3605.html</id>
     <published>2023-02-10T05:28:20.000Z</published>
-    <updated>2023-02-10T05:28:20.787Z</updated>
+    <updated>2023-02-10T09:52:04.359Z</updated>
     
+    <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核心程序。<br>Clash for Windows 是运行在 Windows 上的一图形化 Clash 分支，通过 Clash API 来配置和控制。<br>Clash 核心程序，便于用户可视化操作和使用。</p><h2 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h2><p>可以访问Github 地址进行下载:<a class="link"   href="https://github.com/Fndroid/clash_for_windows_pkg/releases" >点我直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><p>或者使用本站重新打包的文件：</p><p>*Clash for Windows 中文版下载地址:<a class="link"   href="https://lanzous.com/ibxmAk8rwyb" >点我直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><p>*英文原版安装包下载地址:<a class="link"   href="https://lanzous.com/iAwf1k65zub" >点我直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><p>*英文便携版下载地址:<a class="link"   href="https://lanzous.com/iADWkk65pab" >点我直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><p>若使用 Chrome 浏览器下载 exe 文件，可能会提示不安全，请忽略此提示。</p><p>由于 Clash for Windows 没有任何有效的数字签名，因此 SmartScreen 可能会弹出提示，请点击“更多信息”，然后选择“仍要运行”。</p><h2 id="添加订阅"><a href="#添加订阅" class="headerlink" title="添加订阅"></a>添加订阅</h2><p>请先在机场官网复制Clash 订阅链接。</p><p>打开 Clash for Windows 应用程序，在左侧的标签页中选择 Profiles ， 在顶部输入您的Clash 订阅链接，然后点击 Download 按钮。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核心程序。&lt;br&gt;Clash for Windows 是运行在 Window</summary>
+      
     
     
     
@@ -31,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/02/09/hello-world/"/>
-    <id>http://example.com/2023/02/09/hello-world/</id>
+    <link href="http://example.com/4a17b156.html"/>
+    <id>http://example.com/4a17b156.html</id>
     <published>2023-02-09T15:28:33.267Z</published>
     <updated>2023-02-09T15:28:33.267Z</updated>
     
