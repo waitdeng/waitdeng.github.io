@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-10T11:43:36.011Z</updated>
+  <updated>2023-02-10T13:03:19.872Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>macOS - ClashX 使用教程</title>
+    <link href="http://example.com/f47536f2.html"/>
+    <id>http://example.com/f47536f2.html</id>
+    <published>2023-02-10T12:58:16.000Z</published>
+    <updated>2023-02-10T13:03:19.872Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核心程序。<br>ClashX 是运行在 macOS 上的一款科学上网工具。<br>系统要求：macOS 10.5 及以上<br>设备要求：MacBook &#x2F; iMac &#x2F; Mac Pro</p><h2 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h2><p>请<a class="link"   href="https://lanzous.com/iP1hbkcd6hi" >点击此处 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>进行下载。<br>下载后运行 dmg 文件以安装。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/NlWrbS5tJZ2gxeP.png"                      alt="cx-1.png" title=""                ><h2 id="快速上手"><a href="#快速上手" class="headerlink" title="快速上手"></a>快速上手</h2><h3 id="添加订阅"><a href="#添加订阅" class="headerlink" title="添加订阅"></a>添加订阅</h3><p>前往官网<code>首页</code>复制 Clash 配置链接。<br>打开 ClashX，点击菜单栏中的 ClashX 图标 打开菜单，进入 配置 &gt; 托管配置 &gt; 管理。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/ZmMLpacQwOre6WR.png"                      alt="cx-2.png" title=""                ><p>在 托管的配置文件 窗口，点击 “添加”<br>在 Url 一栏中输入 Clash 配置订阅链接，Config Name 为配置文件名，可以随意填写或留空。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/txSUwvd9rIfghzn.png"                      alt="cx-3.png" title=""                ><p>添加成功后 ClashX 会自动从链接下载配置文件，等待 “更新时间” 刷新后，即可关闭窗口。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/FOLfyC5mah6Dnvj.png"                      alt="cx-4.png" title=""                ><h3 id="设置为系统代理"><a href="#设置为系统代理" class="headerlink" title="设置为系统代理"></a>设置为系统代理</h3><p>打开 ClashX 菜单中的 “设置为系统代理”，ClashX 便开始接管系统流量。<br>ClashX 的默认出站模式为 “规则”，不推荐选择 “全局” 与 “直连”。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/eJOqEbmnUVyFp2t.png"                      alt="cx-5.png" title=""                ><p>Clash 支持通过策略组，对不同的网站使用不同的策略。合理使用分流可以提升您的使用体验。</p><ul><li>Domestic 决策所有中国大陆的网站，默认 DIRECT 直连。</li><li>Overseas 决策在中国大陆无法访问的主流网站，默认使用代理。</li><li>Others 决策不包含在 Overseas 规则内的冷门网站，默认跟随 Overseas 设定。</li></ul><h4 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h4><h4 id="想删除多余配置？"><a href="#想删除多余配置？" class="headerlink" title="想删除多余配置？"></a>想删除多余配置？</h4><p>进入 配置 &gt; 托管配置 &gt; 管理，在 “托管的配置文件” 窗口，记住想要删除的配置的名称，之后删除它。<br>进入 配置 &gt; 打开本地配置文件夹，把对应名称的 .yaml 文件删除即可。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核心程序。&lt;br&gt;ClashX 是运行在 macOS 上的一款科学上网工具。</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iOS - Shadowrocket (小火箭) 使用教程</title>
+    <link href="http://example.com/2426b59.html"/>
+    <id>http://example.com/2426b59.html</id>
+    <published>2023-02-10T12:47:56.000Z</published>
+    <updated>2023-02-10T12:57:31.818Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Shadowrocket 是 iOS&#x2F;iPadOS 平台上较早出现的支持 SSR 协议的客户端，坊间称作“小火箭”。</p><h2 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h2><p>小火箭在中国大陆区已被下架，请使用外区账号在 AppStore 下载。<br>参考价格：2.99＄</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/DFkG9qm6IBPszXv.jpg"                      alt="srt-1.png" title=""                ><h2 id="添加订阅"><a href="#添加订阅" class="headerlink" title="添加订阅"></a>添加订阅</h2><p><code>方法一</code>前往官网<code>首页</code>复制<code>Shadowrocket</code>订阅链接。<br>打开 Shadowrocket，点击右上角＋，类型选择<code>Subscribe</code>。<br>粘贴订阅链接至<code>URL</code>后，点击右上角<code>完成</code>，Shadowrocket 将从订阅链接获取节点。<br><code>方法二</code>官网首页的<code>Shadowrocket订阅</code>显示“一键导入Shadowrocket”，那么在手机上直接登录官网然后点击此按钮也可以一键导入。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/a6ZkATlIGQimfVR.jpg"                      alt="srt-2.png" title=""                ><h3 id="提示"><a href="#提示" class="headerlink" title="提示"></a>提示</h3><ul><li>向右滑动订阅链接可手动更新订阅。</li><li>在设置中，将 “订阅” 菜单中的 “打开时更新” 与 “后台自动更新” 设置为开启，可让节点列表保持更新。</li><li>在设置中，将 “延迟测试方法” 选择为 “CONNECT”，可有效检测节点可用性。</li></ul><h2 id="最后一步"><a href="#最后一步" class="headerlink" title="最后一步"></a>最后一步</h2><p>选择需要使用的节点，打开右上角的开关，在弹出的 “添加 VPN 配置” 中点击“允许”，输入 iOS 设备密码后自动回到 Shadowrocket 即连接成功。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/RkL79dKF2Iqysnv.jpg"                      alt="srt-3.png" title=""                ><p>Shadowrocket 默认使用配置模式运行，可以在 “配置” 页面添加你想要的规则，也可在 “全局路由” 中选择其他模式。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Shadowrocket 是 iOS&amp;#x2F;iPadOS 平台上较早出现的支持 SSR 协议的客户端，坊间称作“小火箭”。&lt;/p&gt;
+&lt;h</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Android - Clash for Android 使用教程</title>
+    <link href="http://example.com/65aadaa.html"/>
+    <id>http://example.com/65aadaa.html</id>
+    <published>2023-02-10T12:30:09.000Z</published>
+    <updated>2023-02-10T12:44:54.453Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核心程序。<br>Clash for Android 是安卓系统上的一款 Clash 客户端。<br>Github 项目地址：<a class="link"   href="https://github.com/Kr328/ClashForAndroid" >点我直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>请<a class="link"   href="https://lanzous.com/iDFSVgedlcb" >点击这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>以下载最新版 Clash for Android 软件</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/GQinKY36dp2uqjE.jpg"                      alt="cfa-1.jpg" title="" class="" style=""                ><h2 id="添加订阅"><a href="#添加订阅" class="headerlink" title="添加订阅"></a>添加订阅</h2><p>前往官网<code>首页</code>复制 Clash 配置订阅。<br>在 Clash for Android 主页，依次点击<code>配置</code>&gt;<code>新配置</code>&gt;<coede>URL</code>。<br>在<coede>URL</code>一栏中填入 Clash 配置订阅链接；自动更新 (分钟) 推荐填写 1440 ，即每 24 小时自动从链接中更新配置文件。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/OLKq7rI9xJW41X2.jpg"                      alt="cfa-2.jpg" title=""                ><p>完成后点击右上角的保存按钮，Clash for Android 将下载配置文件，请点击选中添加的配置文件。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/SZMmgeGvtLu2j1o.jpg"                      alt="cfa-3.jpg" title=""                ><h2 id="开启代理"><a href="#开启代理" class="headerlink" title="开启代理"></a>开启代理</h2><p>回到 Clash for Android 主页，启动服务。在弹出的设置 VPN 中点击 “允许”，Clash for Android 便开始接管系统流量。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/3pukFxZA1MyaJfH.jpg"                      alt="cfa-4.jpg" title=""                ><p>点开 “代理”，可以对策略组进行选择。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.loli.net/2021/01/24/2yAlfg6MOuiNQe7.jpg"                      alt="cfa-5.jpg" title=""                ><p>Clash 支持通过策略组，对不同的网站使用不同的策略。合理使用分流可以提升您的使用体验。</p><p>*Domestic 决策所有中国大陆的网站，默认 DIRECT 直连。<br>*Global 决策在中国大陆无法访问的主流网站，默认使用代理。<br>*Others 决策不包含在 Global 规则内的冷门网站，默认跟随 Global 设定。 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核心程序。&lt;br&gt;Clash for Android 是安卓系统上的一款 C</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Windows - V2RayN 使用教程</title>
