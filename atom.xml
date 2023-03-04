@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-11T04:19:26.164Z</updated>
+  <updated>2023-03-04T13:42:05.508Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微笑网游加速器错误代码解决方案</title>
+    <link href="http://example.com/45574c84.html"/>
+    <id>http://example.com/45574c84.html</id>
+    <published>2023-03-04T12:47:45.000Z</published>
+    <updated>2023-03-04T13:42:05.508Z</updated>
+    
+    <content type="html"><![CDATA[<p>微笑加速器错误代码解决方案</p><h3 id="模式一加速40002错误代码且模式二加速40003错误代码"><a href="#模式一加速40002错误代码且模式二加速40003错误代码" class="headerlink" title="模式一加速40002错误代码且模式二加速40003错误代码"></a>模式一加速40002错误代码且模式二加速40003错误代码</h3><p>1.检查是否安装VC++2015运行库，没有请安装即可;</p><p>2.检查驱动是否被禁用，WIN+R运行regedit，回车，输入地址输入计算机\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\netfilter2，<br>查看Start键值是否是4，如果是表示被禁用，改成1后，打开微笑网游加速器文件位置，打开drive文件夹，双击install_driver_x64.bat;<br>(P.S.如果，提示复制1个文件，即可重启。如果复制0个文件表示被占用，重启机器后打开文件夹C:\Windows\System32\drivers删除掉netfilter2.sys<br>删除后重新双击install_driver_x64.bat即可。)</p><p>3.升级到win10，目前微软停止对win7的支持;</p><p>4.关闭占用端口的程序：安装了python的机器会占用888端口;</p><p>5.关闭360安全卫士：加速会改变网络环境，360会拦截。</p><h3 id="如果还有问题，请联系客服QQ：3489510769"><a href="#如果还有问题，请联系客服QQ：3489510769" class="headerlink" title="如果还有问题，请联系客服QQ：3489510769"></a>如果还有问题，请联系客服QQ：3489510769</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;微笑加速器错误代码解决方案&lt;/p&gt;
+&lt;h3 id=&quot;模式一加速40002错误代码且模式二加速40003错误代码&quot;&gt;&lt;a href=&quot;#模式一加速40002错误代码且模式二加速40003错误代码&quot; class=&quot;headerlink&quot; title=&quot;模式一加速40002错误代</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>macOS - ClashX 使用教程</title>
